@@ -1,2 +1,0 @@
-clg
-console.log("hi")
